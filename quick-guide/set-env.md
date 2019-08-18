@@ -54,7 +54,7 @@ GIN_MODE="debug"            # 设置gin的运行模式，有 debug 和 release
 
 .env文件只是一个帮你便捷的设置环境变量的途径而已，你其实可以通过很多方法来设置环境变量。只要环境变量设置的正确，没有这个文件也是可以运行singo的。
 
-{% page-ref page="../can-kao-zi-liao/ru-he-she-zhi-huan-jing-bian-liang.md" %}
+{% page-ref page="../can-kao-zi-liao/how-to-set-env.md" %}
 
 特别提一下，.env文件已经在git中被忽略掉了。这样会避免你错误的把这个充满秘密的文件被提交到GitHub。如果你好奇怎么做到的。可以参考godotenv的文档[https://github.com/joho/godotenv](https://github.com/joho/godotenv)，来观察他的实现方式。
 

@@ -19,5 +19,5 @@ git clone https://github.com/bydmm/singo
 
 ## 快速指引
 
-{% page-ref page="kuai-su-zhi-yin-1/kuai-su-zhi-yin.md" %}
+{% page-ref page="quick-guide/download.md" %}
 
