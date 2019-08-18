@@ -17,6 +17,10 @@ description: Singo = Gin + Gorm + Mysql + Redis + etc.
 git clone https://github.com/bydmm/singo
 ```
 
+## 许可协议
+
+MIT - 允许各种用途
+
 ## 快速指引
 
 {% page-ref page="quick-guide/download.md" %}
